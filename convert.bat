@@ -1,0 +1,1 @@
+pyuic5.exe -x C:\Users\Viktor\PycharmProjects\pysong\lab1.ui -o C:\Users\Viktor\PycharmProjects\pysong\lab1ui.py
